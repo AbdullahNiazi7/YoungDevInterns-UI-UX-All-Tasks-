@@ -21,6 +21,11 @@ Figma Basics: Frames, components, grids, and visual design (typography, spacing,
 
 App Recreations: Wireframes for WhatsApp, YouTube, Spotify, and YT Music.
 
+
+
+
+
+
 🚀 Intermediate Skills (Week 2)
 User Persona:
 
@@ -33,6 +38,11 @@ Mapped steps from app launch to order completion.
 Wireframing:
 
 Core pages: Home, Restaurant, and Cart screens.
+
+
+
+
+
 
 ⚙️ Advanced Execution (Advanced Tasks)
 Design System:
@@ -52,6 +62,11 @@ Iterations: Improved icon spacing, button labels, and hierarchy based on feedbac
 UX Writing:
 
 Crafted microcopy for Spotify ("Start Listening") and Ferrari ("Add to Cart") to enhance clarity and tone.
+
+
+
+
+
 
 🍗 Real-World Project (KFC Redesign)
 Modern UI Prototype:
